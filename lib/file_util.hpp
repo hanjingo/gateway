@@ -1,6 +1,4 @@
-#ifndef UTIL_HPP
-#define UTIL_HPP
-
+#pragma once
 #include <string>
 #include <set>
 
@@ -35,5 +33,3 @@ namespace util{
 
     };
 }
-
-#endif

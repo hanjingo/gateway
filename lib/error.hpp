@@ -1,5 +1,4 @@
-#ifndef ERROR_HPP
-#define ERROR_HPP
+#pragma once
 
 #include <string>
 #include <map>
@@ -39,5 +38,3 @@ namespace err
     };
 
 } // namespace err
-
-#endif

@@ -1,7 +1,11 @@
-#include "../include/gateway.hpp"
+#include <gateway.hpp>
 #include <iostream>
+#include <memory>
 
 int main() {
-    std::cout << "ipfs_gateway" << std::endl;
+    std::cout << "gateway run" << std::endl;
     
+    std::unique_ptr<gateway::Gateway> app;
+    app->Init();
+    app->Run();
 }

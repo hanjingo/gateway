@@ -1,29 +1,28 @@
-#ifndef GATEWAY_HPP
-#define GATEWARY_HPP
+#pragma once
 
 #include <memory>
-#include "interface.hpp"
-#include "gateway_config.hpp"
+#include <interface.hpp>
+#include <gate_config.hpp>
 
 namespace gateway
 {
     // 网关
-    class GateWay{
+    class Gateway{
     private:
-        std::unique_ptr<GatewayConfig> conf;   // 配置
-        std::unique_ptr<HttpHandlerI>  http;   // http服务器
+        std::unique_ptr<HttpServerI>   http;   // http服务器
         std::unique_ptr<StreamPlayerI> player; // 流媒体播放器
         std::unique_ptr<CacheMgrI>     cache;  // 缓存管理器
         std::unique_ptr<RecordMgrI>    record; // 记录管理器
+
+    public:
+        inline std::shared_ptr<HttpServerI> Http(){};
+        inline std::shared_ptr<StreamPlayerI> Player(){};
+        inline std::shared_ptr<CacheMgrI> Cache(){};
+        inline std::shared_ptr<RecordMgrI> Record(){};
     
     public:
-        GateWay(){};
-        ~GateWay(){};
-
-        std::shared_ptr<HttpHandlerI> Http();
-        std::shared_ptr<StreamPlayerI> Player();
-        std::shared_ptr<CacheMgrI> Cache();
-        std::shared_ptr<RecordMgrI> Record();
+        Gateway(){};
+        ~Gateway(){};
 
         void Init();
         void Run();
@@ -37,5 +36,3 @@ namespace gateway
         void initRecordMgr();
     };
 }
-
-#endif

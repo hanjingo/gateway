@@ -1,10 +1,8 @@
-#ifndef FILE_INFO_HPP
-#define FILE_INFO_HPP
+#pragma once
 
 #include <chrono>
 #include <memory>
-
-#include "error.hpp"
+#include <error.hpp>
 
 namespace gateway
 {
@@ -30,18 +28,12 @@ namespace gateway
         char*                                 FilePathName; // 文件当前路径
 
     public:
-        inline void SetStat(const FileStat stat){
+        inline void SetStat(const FileStat stat){};
+        inline FileStat GetStat(){};
 
-        };
-        inline FileStat GetStat(){
-
-        };
-
-        std::shared_ptr<err::Error> GetPg(){};
-        std::shared_ptr<err::Error> SetPg(){};
-        std::shared_ptr<err::Error> GetRds(){};
-        std::shared_ptr<err::Error> SetRds(){};
+        void GetPg(err::Error &e);
+        void SetPg(err::Error &e);
+        void GetRds(err::Error &e);
+        void SetRds(err::Error &e);
     };
 }
-
-#endif

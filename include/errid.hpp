@@ -1,9 +1,6 @@
-#ifndef ERRID_HPP
-#define ERRID_HPP
+#pragma once
 
 namespace gateway
 {
     
 }
-
-#endif

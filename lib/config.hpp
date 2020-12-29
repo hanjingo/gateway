@@ -1,12 +1,11 @@
-#ifndef CONFIG_HPP
-#define CONFIG_HPP
+#pragma config
 
 #include <string>
 #include <chrono>
 #include <map>
 #include <memory>
 
-#include "error.hpp"
+#include <error.hpp>
 
 namespace conf
 {
@@ -43,5 +42,3 @@ namespace conf
     };
 
 } // namespace config
-
-#endif

@@ -1,11 +1,7 @@
-#ifndef LOGGER_HPP
-#define LOGGER_HPP
-
+#pragma once
 namespace log
 {
     class Logger {
 
     };
 }
-
-#endif
