@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="utf-8"> 
+<title>play</title> 
+</head>
+<body>
+
+<input id="input_data" type="text" placeholder="输入hash或文件名" size="60">
+<button onclick="play()">播放</button>
+
+<script>
+    function play() {
+        var hash = document.getElementById("input_data").value;
+        console.log(hash);
+        window.location.href="video/player?hash=" + hash;
+    }
+</script>
+
+</body>
+</html>

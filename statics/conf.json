@@ -1,0 +1,41 @@
+{
+    "log":{
+        "writer_types":["stdout", "file"],
+        "lvl":"debug",
+        "encoding":"json",
+        "filename":"/tmp/gate/log/gate.log",
+        "max_size_mb":2,
+        "max_age_day":1,
+        "max_backup":30,
+        "is_local_time":true,
+        "is_compress":false
+    },
+    "http":{
+        "addr":":10086",
+        "static_src_path":"./statics/*"
+    },
+    "record":{
+        "capa":1024
+    },
+    "cache":{
+        "capa":1024,
+        "expire":48,
+        "cache_path":"/tmp/gate/cache"
+    },
+    "pg":{
+        "host":"127.0.0.1",
+        "port":5432,
+        "user":"admin",
+        "password":"daniel2020",
+        "database":"gate"
+    },
+    "redis":{
+        "host":"127.0.0.1",
+        "port":6379
+    },
+    "ipfs":{
+        "host":"127.0.0.1",
+        "port":5001,
+        "pull_expire":30
+    }
+}
