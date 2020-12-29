@@ -13,15 +13,11 @@ namespace err
     {
     public:
         // 错误码
-        uint32_t Code = 0;
+        uint32_t Code;
         // 错误信息
-        const char *Desc = "未知错误";
+        std::string Desc;
 
-        Error(uint32_t code, const char *desc)
-        {
-            Code = code;
-            Desc = desc;
-        }
+        Error(uint32_t code = 0, const std::string &desc = "未知错误"):Code{code}, Desc{desc} {}
 
         inline bool operator==(const Error &e) const
         {
