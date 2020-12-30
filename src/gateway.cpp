@@ -4,7 +4,7 @@ namespace gateway{
 
 void Gateway::Init()
 {
-
+    
 }
 
 void Gateway::Run()

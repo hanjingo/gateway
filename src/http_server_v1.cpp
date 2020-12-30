@@ -2,6 +2,10 @@
 
 namespace gateway {
 
+HttpServerV1::HttpServerV1() {
+    
+}
+
 void Service(err::Error &e)
 {
 

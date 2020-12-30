@@ -2,26 +2,36 @@
 
 #include <memory>
 #include <interface.hpp>
-#include <gate_config.hpp>
+#include <config.hpp>
+#include <cache_mgr_v1.hpp>
+#include <record_mgr_v1.hpp>
+#include <stream_player_v1.hpp>
+#include <http_server_v1.hpp>
 
 namespace gateway
 {
     // 网关
     class Gateway{
     private:
-        std::unique_ptr<HttpServerI>   http;   // http服务器
-        std::unique_ptr<StreamPlayerI> player; // 流媒体播放器
-        std::unique_ptr<CacheMgrI>     cache;  // 缓存管理器
-        std::unique_ptr<RecordMgrI>    record; // 记录管理器
+        std::shared_ptr<HttpServerI>   _http;   // http服务器
+        std::shared_ptr<StreamPlayerI> _player; // 流媒体播放器
+        std::shared_ptr<CacheMgrI>     _cache;  // 缓存管理器
+        std::shared_ptr<RecordMgrI>    _record; // 记录管理器
 
     public:
-        inline std::shared_ptr<HttpServerI> Http(){};
-        inline std::shared_ptr<StreamPlayerI> Player(){};
-        inline std::shared_ptr<CacheMgrI> Cache(){};
-        inline std::shared_ptr<RecordMgrI> Record(){};
+        inline std::shared_ptr<HttpServerI> Http(){ return _http; };
+        inline std::shared_ptr<StreamPlayerI> Player(){ return _player; };
+        inline std::shared_ptr<CacheMgrI> Cache(){ return _cache; };
+        inline std::shared_ptr<RecordMgrI> Record(){ return _record; };
     
     public:
-        Gateway(){};
+        Gateway::Gateway()
+        {
+            _http = std::shared_ptr<HttpServerI>(new HttpServerV1());
+            _player = std::shared_ptr<StreamPlayerI>(new StreamPlayerV1());
+            _cache = std::shared_ptr<CacheMgrI>(new CacheMgrV1(Config::Instance()->Ipfs, Config::Instance()->Cache));
+            _record = std::shared_ptr<RecordMgrI>(new RecordMgrV1(Config::Instance()->Pg, Config::Instance()->Rds));
+        }
         ~Gateway(){};
 
         void Init();

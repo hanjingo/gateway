@@ -2,16 +2,18 @@
 
 #include <memory>
 #include <interface.hpp>
-#include <gate_config.hpp>
+#include <config.hpp>
 
 namespace gateway
 {
-    class HttpServerV1 : HttpServerI {
+    class HttpServerV1 : public HttpServerI {
     private:
-        HttpConfig &HttpCfg;
         bool bRun;
 
     public:
-    
+        // HttpServerV1();
+        ~HttpServerV1(){};
+        void Service(err::Error &e);
+        void SetInvoke(err::Error &e, const HttpTyp typ, const std::string &url, void (*func)());
     };
 }

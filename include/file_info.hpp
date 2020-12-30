@@ -28,6 +28,9 @@ namespace gateway
         char*                                 FilePathName; // 文件当前路径
 
     public:
+        FileInfo(){}
+        ~FileInfo(){}
+        
         inline void SetStat(const FileStat stat){};
         inline FileStat GetStat(){};
 
