@@ -1,0 +1,564 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	416;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	419;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	422;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	425;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	429;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	431;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	433;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	437;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	440;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	443;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	448;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	451;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	454;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	459;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	462;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	465;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	468;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	401;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	404;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	407;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	410;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	414;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	416;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	418;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	422;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	425;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	428;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	433;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	436;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	439;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	444;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	447;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	450;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	453;"	d	file:
+Add	src/record_mgr_v1.cpp	/^void RecordMgrV1::Add(err::Error &e, const FileInfo &f) $/;"	f	class:gateway::RecordMgrV1
+Addr	include/config.hpp	/^    std::string Addr;$/;"	m	class:gateway::HttpConfig
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/ubuntu\/proj\/gateway\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/ubuntu\/proj\/gateway$/;"	m
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	101;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	108;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	115;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	129;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	142;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	190;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	200;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	218;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	227;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	236;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	251;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	264;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	282;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	285;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	288;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	50;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	71;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	94;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	198;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	234;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	249;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	267;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	270;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	232;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	230;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	130;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	138;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	165;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	180;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	191;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	221;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	229;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	244;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	253;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	258;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	267;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	272;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	51;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	64;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	73;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	88;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	96;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	188;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	200;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	242;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	252;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	257;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	111;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	118;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	145;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	166;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	181;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	203;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	240;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	245;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	254;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	259;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	268;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	273;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	44;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	74;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	84;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	97;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	238;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	258;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	105;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	207;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	210;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	223;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	231;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	241;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	246;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	255;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	260;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	269;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	274;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	27;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	29;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	67;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	76;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	90;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	254;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	259;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	214;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+CXX_STD	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	534;"	d	file:
+CXX_STD	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	536;"	d	file:
+C_DIALECT	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	550;"	d	file:
+C_DIALECT	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	552;"	d	file:
+C_DIALECT	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	555;"	d	file:
+C_DIALECT	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	557;"	d	file:
+C_DIALECT	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	559;"	d	file:
+Cache	include/config.hpp	/^    CacheConfig Cache;$/;"	m	class:gateway::Config
+Cache	include/gateway.hpp	/^        inline std::shared_ptr<CacheMgrI> Cache(){ return _cache; };$/;"	f	class:gateway::Gateway
+CacheConfig	include/config.hpp	/^class CacheConfig$/;"	c	namespace:gateway
+CacheMgrI	include/interface.hpp	/^    class CacheMgrI : public MgrI {$/;"	c	class:gateway::HttpTyp
+CacheMgrV1	include/cache_mgr_v1.hpp	/^    CacheMgrV1(const IpfsConfig &ipfs, const CacheConfig &cache){$/;"	f	class:gateway::CacheMgrV1
+CacheMgrV1	include/cache_mgr_v1.hpp	/^class CacheMgrV1 : public CacheMgrI$/;"	c	namespace:gateway
+CachePath	include/cache_mgr_v1.hpp	/^    std::string CachePath;$/;"	m	class:gateway::CacheMgrV1
+Close	src/cache_mgr_v1.cpp	/^void CacheMgrV1::Close()$/;"	f	class:gateway::CacheMgrV1
+Close	src/record_mgr_v1.cpp	/^void RecordMgrV1::Close()$/;"	f	class:gateway::RecordMgrV1
+Code	lib/error.hpp	/^        uint32_t Code;$/;"	m	class:err::Error
+Config	include/config.hpp	/^class Config$/;"	c	namespace:gateway
+CreateTime	include/file_info.hpp	/^        std::chrono::system_clock::time_point CreateTime;   \/\/ 文件创建时间$/;"	m	class:gateway::FileStat::FileInfo
+DEC	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	472;"	d	file:
+DEC	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	457;"	d	file:
+DataBase	include/config.hpp	/^    std::string DataBase;$/;"	m	class:gateway::PgConfig
+Debug	lib/logger.hpp	/^        void Debug()$/;"	f	class:log::Logger
+Deleted	include/file_info.hpp	/^        Deleted = 7     \/\/ 已删除$/;"	m	class:gateway::FileStat
+Deleting	include/file_info.hpp	/^        Deleting = 6,   \/\/ 正在删除$/;"	m	class:gateway::FileStat
+Desc	lib/error.hpp	/^        std::string Desc;$/;"	m	class:err::Error
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+Error	lib/error.hpp	/^        Error(uint32_t code = 0, const std::string &desc = "未知错误"):Code{code}, Desc{desc} {}$/;"	f	class:err::Error
+Error	lib/error.hpp	/^    class Error$/;"	c	namespace:err
+Error	lib/logger.hpp	/^        void Error()$/;"	f	class:log::Logger
+Expired	include/file_info.hpp	/^        Expired = 5,    \/\/ 已过期$/;"	m	class:gateway::FileStat
+Fatal	lib/logger.hpp	/^        void Fatal()$/;"	f	class:log::Logger
+FileExpireDur	include/cache_mgr_v1.hpp	/^    duration FileExpireDur; \/\/ 文件过期时长$/;"	m	class:gateway::CacheMgrV1
+FileExpireDur	include/config.hpp	/^    uint32_t FileExpireDur;$/;"	m	class:gateway::CacheConfig
+FileInfo	include/file_info.hpp	/^        FileInfo(){}$/;"	f	class:gateway::FileStat::FileInfo
+FileInfo	include/file_info.hpp	/^    class FileInfo{$/;"	c	class:gateway::FileStat
+FilePathName	include/file_info.hpp	/^        char*                                 FilePathName; \/\/ 文件当前路径$/;"	m	class:gateway::FileStat::FileInfo
+FileStat	include/file_info.hpp	/^    enum class FileStat : uint8_t$/;"	c	namespace:gateway
+GET	include/interface.hpp	/^        GET = 1,  \/\/ http GET$/;"	m	class:gateway::HttpTyp
+Gateway	include/gateway.hpp	/^        Gateway::Gateway()$/;"	f	class:gateway::Gateway::Gateway
+Gateway	include/gateway.hpp	/^    class Gateway{$/;"	c	namespace:gateway
+Get	src/record_mgr_v1.cpp	/^void RecordMgrV1::Get(err::Error &e, FileInfo &f) $/;"	f	class:gateway::RecordMgrV1
+GetCurrDir	lib/file_util.hpp	/^    static void GetCurrDir(std::string& path)$/;"	f	namespace:util
+GetFileNameByExt	lib/file_util.hpp	/^    static void GetFileNameByExt(std::set<std::string> out, const std::string& path, const std::set<std::string> exts)$/;"	f	namespace:util
+GetPg	src/file_info.cpp	/^void FileInfo::GetPg(err::Error &e)$/;"	f	class:gateway::FileInfo
+GetRds	src/file_info.cpp	/^void FileInfo::GetRds(err::Error &e)$/;"	f	class:gateway::FileInfo
+GetStat	include/file_info.hpp	/^        inline FileStat GetStat(){};$/;"	f	class:gateway::FileStat::FileInfo
+GetSubDirs	lib/file_util.hpp	/^    static void GetSubDirs(std::set<std::string> out, const std::string &path)$/;"	f	namespace:util
+HEX	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	483;"	d	file:
+HEX	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	468;"	d	file:
+Hash	include/file_info.hpp	/^        char*                                 Hash;         \/\/ 文件hash$/;"	m	class:gateway::FileStat::FileInfo
+Host	include/config.hpp	/^    std::string Host;$/;"	m	class:gateway::IpfsConfig
+Host	include/config.hpp	/^    std::string Host;$/;"	m	class:gateway::PgConfig
+Host	include/config.hpp	/^    std::string Host;$/;"	m	class:gateway::RdsConfig
+Http	include/config.hpp	/^    HttpConfig Http;$/;"	m	class:gateway::Config
+Http	include/gateway.hpp	/^        inline std::shared_ptr<HttpServerI> Http(){ return _http; };$/;"	f	class:gateway::Gateway
+HttpConfig	include/config.hpp	/^class HttpConfig$/;"	c	namespace:gateway
+HttpServerI	include/interface.hpp	/^    class HttpServerI {$/;"	c	class:gateway::HttpTyp
+HttpServerV1	include/http_server_v1.hpp	/^    class HttpServerV1 : public HttpServerI {$/;"	c	namespace:gateway
+HttpServerV1	src/http_server_v1.cpp	/^HttpServerV1::HttpServerV1() {$/;"	f	class:gateway::HttpServerV1
+HttpTyp	include/interface.hpp	/^    enum class HttpTyp : uint8_t {$/;"	c	namespace:gateway
+ID_VOID_MAIN	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+Info	lib/logger.hpp	/^        void Info()$/;"	f	class:log::Logger
+Init	src/cache_mgr_v1.cpp	/^void CacheMgrV1::Init(err::Error &e)$/;"	f	class:gateway::CacheMgrV1
+Init	src/gateway.cpp	/^void Gateway::Init()$/;"	f	class:gateway::Gateway
+Init	src/record_mgr_v1.cpp	/^void RecordMgrV1::Init(err::Error &e) $/;"	f	class:gateway::RecordMgrV1
+Instance	include/config.hpp	/^    static std::shared_ptr<Config> Instance()$/;"	f	class:gateway::Config
+Instance	lib/logger.hpp	/^        static Logger *Instance()$/;"	f	class:log::Logger
+Ipfs	include/config.hpp	/^    IpfsConfig Ipfs;$/;"	m	class:gateway::Config
+IpfsConfig	include/config.hpp	/^class IpfsConfig$/;"	c	namespace:gateway
+IpfsHost	include/cache_mgr_v1.hpp	/^    std::string IpfsHost;$/;"	m	class:gateway::CacheMgrV1
+IpfsPort	include/cache_mgr_v1.hpp	/^    uint32_t IpfsPort;$/;"	m	class:gateway::CacheMgrV1
+IpfsPullExpireDur	include/cache_mgr_v1.hpp	/^    duration IpfsPullExpireDur;$/;"	m	class:gateway::CacheMgrV1
+IsExist	lib/file_util.hpp	/^    static bool IsExist(const std::string filePathName)$/;"	f	namespace:util
+Logger	lib/logger.hpp	/^        Logger(){};$/;"	f	class:log::Logger
+Logger	lib/logger.hpp	/^    class Logger $/;"	c	namespace:log
+LoggerCfg	lib/logger.hpp	/^    class LoggerCfg $/;"	c	namespace:log
+MgrI	include/interface.hpp	/^    class MgrI {$/;"	c	class:gateway::HttpTyp
+MustCreateFile	lib/file_util.hpp	/^    static void MustCreateFile(const std::string &filename)$/;"	f	namespace:util
+MustCreatePath	lib/file_util.hpp	/^    static void MustCreatePath(const std::string &path)$/;"	f	namespace:util
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	313;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	316;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	319;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	322;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	325;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	328;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	331;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	334;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	337;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	340;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	343;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	346;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	349;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	352;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	355;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	358;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	361;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	364;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	367;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	370;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	373;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	376;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	379;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	382;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	385;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	389;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	392;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	395;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	398;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	401;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	405;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	298;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	301;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	304;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	307;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	310;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	313;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	316;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	322;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	325;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	328;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	331;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	334;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	337;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	340;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	343;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	346;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	349;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	352;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	355;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	358;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	361;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	364;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	367;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	370;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	374;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	377;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	383;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	386;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	file:
+POST	include/interface.hpp	/^        POST = 2 \/\/ http POST$/;"	m	class:gateway::HttpTyp
+Passwd	include/config.hpp	/^    std::string Passwd;$/;"	m	class:gateway::PgConfig
+Path	include/config.hpp	/^    std::string Path;$/;"	m	class:gateway::CacheConfig
+Pg	include/config.hpp	/^    PgConfig Pg;$/;"	m	class:gateway::Config
+PgCfg	include/record_mgr_v1.hpp	/^    PgConfig &PgCfg;$/;"	m	class:gateway::RecordMgrV1
+PgConfig	include/config.hpp	/^class PgConfig$/;"	c	namespace:gateway
+Play	src/stream_player_v1.cpp	/^void StreamPlayerV1::Play(err::Error &e)$/;"	f	class:gateway::StreamPlayerV1
+Player	include/gateway.hpp	/^        inline std::shared_ptr<StreamPlayerI> Player(){ return _player; };$/;"	f	class:gateway::Gateway
+Port	include/config.hpp	/^    uint32_t Port;$/;"	m	class:gateway::IpfsConfig
+Port	include/config.hpp	/^    uint32_t Port;$/;"	m	class:gateway::PgConfig
+Port	include/config.hpp	/^    uint32_t Port;$/;"	m	class:gateway::RdsConfig
+PullExpireDur	include/config.hpp	/^    uint32_t PullExpireDur;$/;"	m	class:gateway::IpfsConfig
+PullFail	include/file_info.hpp	/^        PullFail = 4,   \/\/ 拉取失败$/;"	m	class:gateway::FileStat
+Pulled	include/file_info.hpp	/^        Pulled = 3,     \/\/ 已拉取$/;"	m	class:gateway::FileStat
+Pulling	include/file_info.hpp	/^        Pulling = 2,    \/\/ 正在拉取$/;"	m	class:gateway::FileStat
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+Rds	include/config.hpp	/^    RdsConfig Rds;$/;"	m	class:gateway::Config
+RdsCfg	include/record_mgr_v1.hpp	/^    RdsConfig &RdsCfg;$/;"	m	class:gateway::RecordMgrV1
+RdsConfig	include/config.hpp	/^class RdsConfig$/;"	c	namespace:gateway
+Record	include/gateway.hpp	/^        inline std::shared_ptr<RecordMgrI> Record(){ return _record; };$/;"	f	class:gateway::Gateway
+RecordMgrI	include/interface.hpp	/^    class RecordMgrI : public MgrI {$/;"	c	class:gateway::HttpTyp
+RecordMgrV1	include/record_mgr_v1.hpp	/^class RecordMgrV1 : public RecordMgrI$/;"	c	namespace:gateway
+Run	src/cache_mgr_v1.cpp	/^void CacheMgrV1::Run(err::Error &e)$/;"	f	class:gateway::CacheMgrV1
+Run	src/gateway.cpp	/^void Gateway::Run()$/;"	f	class:gateway::Gateway
+Run	src/record_mgr_v1.cpp	/^void RecordMgrV1::Run(err::Error &e) $/;"	f	class:gateway::RecordMgrV1
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	163;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	21;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	185;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	171;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	186;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+STRINGIFY	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	309;"	d	file:
+STRINGIFY	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	308;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	293;"	d	file:
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+Save	src/cache_mgr_v1.cpp	/^void CacheMgrV1::Save(err::Error &e, const FileInfo& f)$/;"	f	class:gateway::CacheMgrV1
+Service	src/http_server_v1.cpp	/^void Service(err::Error &e)$/;"	f	namespace:gateway
+SetInvoke	src/cache_mgr_v1.cpp	/^void CacheMgrV1::SetInvoke(err::Error &e, const std::string &typ, void (*func)())$/;"	f	class:gateway::CacheMgrV1
+SetInvoke	src/http_server_v1.cpp	/^void SetInvoke(err::Error &e, const HttpTyp typ, const std::string &url, void (*func)())$/;"	f	namespace:gateway
+SetPg	src/file_info.cpp	/^void FileInfo::SetPg(err::Error &e)$/;"	f	class:gateway::FileInfo
+SetRds	src/file_info.cpp	/^void FileInfo::SetRds(err::Error &e)$/;"	f	class:gateway::FileInfo
+SetStat	include/file_info.hpp	/^        inline void SetStat(const FileStat stat){};$/;"	f	class:gateway::FileStat::FileInfo
+Shutdown	src/gateway.cpp	/^void Gateway::Shutdown()$/;"	f	class:gateway::Gateway
+StaticSourcePath	include/config.hpp	/^    std::string StaticSourcePath;$/;"	m	class:gateway::HttpConfig
+Status	include/file_info.hpp	/^        FileStat                              Status;       \/\/ 文件状态$/;"	m	class:gateway::FileStat::FileInfo
+StreamPlayerI	include/interface.hpp	/^    class StreamPlayerI {$/;"	c	class:gateway::HttpTyp
+StreamPlayerV1	include/stream_player_v1.hpp	/^    StreamPlayerV1(){};$/;"	f	class:gateway::StreamPlayerV1
+StreamPlayerV1	include/stream_player_v1.hpp	/^class StreamPlayerV1 : public StreamPlayerI$/;"	c	namespace:gateway
+Tracked	include/file_info.hpp	/^        Tracked = 1,    \/\/ 已追踪$/;"	m	class:gateway::FileStat
+Untracked	include/file_info.hpp	/^        Untracked = 0,  \/\/ 未追踪$/;"	m	class:gateway::FileStat
+User	include/config.hpp	/^    std::string User;$/;"	m	class:gateway::PgConfig
+Warn	lib/logger.hpp	/^        void Warn()$/;"	f	class:log::Logger
+_cache	include/gateway.hpp	/^        std::shared_ptr<CacheMgrI>     _cache;  \/\/ 缓存管理器$/;"	m	class:gateway::Gateway
+_http	include/gateway.hpp	/^        std::shared_ptr<HttpServerI>   _http;   \/\/ http服务器$/;"	m	class:gateway::Gateway
+_instance	include/config.hpp	/^    static std::shared_ptr<Config> _instance; \/\/ 单例$/;"	m	class:gateway::Config
+_player	include/gateway.hpp	/^        std::shared_ptr<StreamPlayerI> _player; \/\/ 流媒体播放器$/;"	m	class:gateway::Gateway
+_record	include/gateway.hpp	/^        std::shared_ptr<RecordMgrI>    _record; \/\/ 记录管理器$/;"	m	class:gateway::Gateway
+bLoad	include/config.hpp	/^    bool bLoad;                               \/\/ 是否加载过$/;"	m	class:gateway::Config
+bRun	include/http_server_v1.hpp	/^        bool bRun;$/;"	m	class:gateway::HttpServerV1
+const	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+err	lib/error.hpp	/^namespace err$/;"	n
+features	build/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	build/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+file_info	sql/gate.sql	/^CREATE TABLE file_info($/;"	t
+file_info.abs_path	sql/gate.sql	/^    status integer,$/;"	F
+file_info.hash	sql/gate.sql	/^CREATE TABLE file_info($/;"	F
+file_info.record_time	sql/gate.sql	/^    hash text primary key,$/;"	F
+file_info.status	sql/gate.sql	/^    record_time timestamptz,$/;"	F
+gateway	include/cache_mgr_v1.hpp	/^namespace gateway{$/;"	n
+gateway	include/config.hpp	/^namespace gateway{$/;"	n
+gateway	include/errid.hpp	/^namespace gateway$/;"	n
+gateway	include/file_info.hpp	/^namespace gateway$/;"	n
+gateway	include/gateway.hpp	/^namespace gateway$/;"	n
+gateway	include/http_server_v1.hpp	/^namespace gateway$/;"	n
+gateway	include/interface.hpp	/^namespace gateway$/;"	n
+gateway	include/record_mgr_v1.hpp	/^namespace gateway{$/;"	n
+gateway	include/stream_player_v1.hpp	/^namespace gateway{$/;"	n
+gateway	src/cache_mgr_v1.cpp	/^namespace gateway{$/;"	n	file:
+gateway	src/file_info.cpp	/^namespace gateway{$/;"	n	file:
+gateway	src/gateway.cpp	/^namespace gateway{$/;"	n	file:
+gateway	src/http_server_v1.cpp	/^namespace gateway {$/;"	n	file:
+gateway	src/record_mgr_v1.cpp	/^namespace gateway{$/;"	n	file:
+gateway	src/stream_player_v1.cpp	/^namespace gateway{$/;"	n	file:
+info_arch	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version_internal	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v
+info_version_internal	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v
+initCacheMgr	src/gateway.cpp	/^void Gateway::initCacheMgr()$/;"	f	class:gateway::Gateway
+initHttpHandler	src/gateway.cpp	/^void Gateway::initHttpHandler()$/;"	f	class:gateway::Gateway
+initPlayer	src/gateway.cpp	/^void Gateway::initPlayer()$/;"	f	class:gateway::Gateway
+initRecordMgr	src/gateway.cpp	/^void Gateway::initRecordMgr()$/;"	f	class:gateway::Gateway
+instance	lib/logger.hpp	/^        static Logger *instance; \/\/ 单例$/;"	m	class:log::Logger
+listenSignal	src/gateway.cpp	/^void Gateway::listenSignal()$/;"	f	class:gateway::Gateway
+log	lib/logger.hpp	/^namespace log$/;"	n
+main	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	build/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	src/main.cpp	/^int main() {$/;"	f
+operator !=	lib/error.hpp	/^        inline bool operator!=(const Error &e) const$/;"	f	class:err::Error
+operator =	lib/error.hpp	/^        inline Error &operator=(const Error &e)$/;"	f	class:err::Error
+operator ==	lib/error.hpp	/^        inline bool operator==(const Error &e) const$/;"	f	class:err::Error
+play	statics/index.html	/^    function play() {$/;"	f
+qnxnto	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+util	lib/file_util.hpp	/^namespace util{$/;"	n
+volatile	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	11;"	d	file:
+~CacheMgrV1	include/cache_mgr_v1.hpp	/^    ~CacheMgrV1(){}$/;"	f	class:gateway::CacheMgrV1
+~Config	include/config.hpp	/^    ~Config(){};$/;"	f	class:gateway::Config
+~FileInfo	include/file_info.hpp	/^        ~FileInfo(){}$/;"	f	class:gateway::FileStat::FileInfo
+~Gateway	include/gateway.hpp	/^        ~Gateway(){};$/;"	f	class:gateway::Gateway
+~HttpServerV1	include/http_server_v1.hpp	/^        ~HttpServerV1(){};$/;"	f	class:gateway::HttpServerV1
+~Logger	lib/logger.hpp	/^        ~Logger(){};$/;"	f	class:log::Logger
+~RecordMgrV1	include/record_mgr_v1.hpp	/^    ~RecordMgrV1(){};$/;"	f	class:gateway::RecordMgrV1
+~StreamPlayerV1	include/stream_player_v1.hpp	/^    ~StreamPlayerV1(){};$/;"	f	class:gateway::StreamPlayerV1

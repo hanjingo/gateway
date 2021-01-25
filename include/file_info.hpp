@@ -2,7 +2,7 @@
 
 #include <chrono>
 #include <memory>
-#include <error.hpp>
+#include "lib/utils/error.hpp"
 
 namespace gateway
 {
@@ -31,8 +31,8 @@ namespace gateway
         FileInfo(){}
         ~FileInfo(){}
         
-        inline void SetStat(const FileStat stat){};
-        inline FileStat GetStat(){};
+        void SetStat(const FileStat stat){ Status = stat; };
+        FileStat GetStat(){ return Status; };
 
         void GetPg(err::Error &e);
         void SetPg(err::Error &e);

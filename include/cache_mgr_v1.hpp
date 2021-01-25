@@ -1,9 +1,9 @@
 #pragma once
 
-#include <interface.hpp>
-#include <config.hpp>
-#include <file_info.hpp>
 #include <chrono>
+#include "interface.hpp"
+#include "config.hpp"
+#include "file_info.hpp"
 
 namespace gateway{
 using duration = std::chrono::system_clock::duration;
@@ -17,7 +17,7 @@ public:
     uint32_t IpfsPort;
     duration IpfsPullExpireDur;
 
-    CacheMgrV1(const IpfsConfig &ipfs, const CacheConfig &cache){
+    CacheMgrV1(){
         // todo
     }
     ~CacheMgrV1(){}

@@ -1,17 +1,14 @@
 #pragma once
 
-#include<interface.hpp>
-#include<config.hpp>
+#include "interface.hpp"
+#include "config.hpp"
 
 namespace gateway{
 
 class RecordMgrV1 : public RecordMgrI
 {
 public:
-    PgConfig &PgCfg;
-    RdsConfig &RdsCfg;
-
-    RecordMgrV1(const PgConfig &pgCfg, const RdsConfig &rdsCfg);
+    RecordMgrV1(){};
     ~RecordMgrV1(){};
 
     void Init(err::Error &e);

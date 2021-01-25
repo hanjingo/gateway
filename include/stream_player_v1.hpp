@@ -1,7 +1,7 @@
 #pragma once
 
-#include <config.hpp>
-#include <interface.hpp>
+#include "config.hpp"
+#include "interface.hpp"
 
 namespace gateway{
 

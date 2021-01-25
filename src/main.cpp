@@ -1,19 +1,22 @@
 #include <gateway.hpp>
 #include <iostream>
 #include <memory>
-#include <logger.hpp>
+#include <lib/utils/logger.hpp>
 #include <config.hpp>
-#include <error.hpp>
+#include <lib/utils/error.hpp>
+
+using namespace gateway;
+using namespace log;
 
 int main() {
     err::Error e{};
     std::string path = "";
 
-    gateway::Config::Instance()->Load(e, path);
-    //if(e != Ok)
-    log::Logger::Instance()->Info();
+    // Config::Instance()->Load(e, path);
+    // if(e != Ok)
+    Logger::Instance();
     
-    std::unique_ptr<gateway::Gateway> app(new gateway::Gateway());
+    std::unique_ptr<Gateway> app(new Gateway());
     app->Init();
     app->Run();
 

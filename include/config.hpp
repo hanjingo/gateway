@@ -1,9 +1,16 @@
 #pragma once
 
 #include <string>
-#include <error.hpp>
+#include <memory>
+#include "lib/utils/error.hpp"
 
 namespace gateway{
+
+class HttpConfig;
+class CacheConfig;
+class PgConfig;
+class RdsConfig;
+class IpfsConfig;
 
 class Config
 {
@@ -12,21 +19,23 @@ private:
     bool bLoad;                               // 是否加载过
 
 public:
-    HttpConfig Http;
-    CacheConfig Cache;
-    PgConfig Pg;
-    RdsConfig Rds;
-    IpfsConfig Ipfs;
+    std::shared_ptr<HttpConfig>     Http;
+    std::shared_ptr<CacheConfig>    Cache;
+    std::shared_ptr<PgConfig>       Pg;
+    std::shared_ptr<RdsConfig>      Rds;
+    std::shared_ptr<IpfsConfig>     Ipfs;
 
 public:
     static std::shared_ptr<Config> Instance()
     {
-        if (_instance == nullptr)
-            std::shared_ptr<Config>_instance(new Config());
+        if (_instance == nullptr) { 
+            _instance = std::make_shared<Config>(); 
+        }
         return _instance;
     };
 
-    ~Config(){};
+    Config() {};
+    ~Config() {};
 
     // 加载配置，只能调用一次
     void Load(err::Error &e, const std::string &path);

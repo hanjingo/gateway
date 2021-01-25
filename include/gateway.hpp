@@ -1,12 +1,12 @@
 #pragma once
 
 #include <memory>
-#include <interface.hpp>
-#include <config.hpp>
-#include <cache_mgr_v1.hpp>
-#include <record_mgr_v1.hpp>
-#include <stream_player_v1.hpp>
-#include <http_server_v1.hpp>
+#include "interface.hpp"
+#include "config.hpp"
+#include "cache_mgr_v1.hpp"
+#include "record_mgr_v1.hpp"
+#include "stream_player_v1.hpp"
+#include "http_server_v1.hpp"
 
 namespace gateway
 {
@@ -25,12 +25,12 @@ namespace gateway
         inline std::shared_ptr<RecordMgrI> Record(){ return _record; };
     
     public:
-        Gateway::Gateway()
+        Gateway()
         {
             _http = std::shared_ptr<HttpServerI>(new HttpServerV1());
             _player = std::shared_ptr<StreamPlayerI>(new StreamPlayerV1());
-            _cache = std::shared_ptr<CacheMgrI>(new CacheMgrV1(Config::Instance()->Ipfs, Config::Instance()->Cache));
-            _record = std::shared_ptr<RecordMgrI>(new RecordMgrV1(Config::Instance()->Pg, Config::Instance()->Rds));
+            _cache = std::shared_ptr<CacheMgrI>(new CacheMgrV1());
+            _record = std::shared_ptr<RecordMgrI>(new RecordMgrV1());
         }
         ~Gateway(){};
 

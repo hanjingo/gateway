@@ -1,12 +1,12 @@
 cmake_minimum_required( VERSION 2.8 )
+project( gateway )
+
 set( CMAKE_BUILD_TYPE "Debug" )
 
-project( gate )
+include_directories( include )
+include_directories( ${PROJECT_SOURCE_DIR} )
 
-include_directories(
-    include
-)
+aux_source_directory(${PROJECT_SOURCE_DIR}/src DIR_SRCS)
+aux_source_directory(${PROJECT_SOURCE_DIR}/lib/utils UTILS_SRCS)
 
-aux_source_directory(src DIR_SRCS)
-
-add_executable( ${PROJECT_NAME} ${DIR_SRCS})
+add_executable( ${PROJECT_NAME} ${DIR_SRCS} ${UTILS_SRCS})
