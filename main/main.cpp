@@ -1,9 +1,9 @@
-#include <gateway.hpp>
 #include <iostream>
 #include <memory>
-#include <lib/utils/logger.hpp>
-#include <config.hpp>
-#include <lib/utils/error.hpp>
+#include "gateway/include/gateway.hpp"
+#include "gateway/include/config.hpp"
+#include "lib/utils/logger.hpp"
+#include "lib/utils/error.hpp"
 
 using namespace gateway;
 using namespace log;

@@ -1,4 +1,4 @@
-#include "config.hpp"
+#include "gateway/include/config.hpp"
 
 namespace gateway {
 std::shared_ptr<Config> _instance = nullptr;
